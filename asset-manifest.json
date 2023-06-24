@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Task_doday.git/static/css/main.4cefeb0a.css",
+    "main.js": "/Task_doday.git/static/js/main.f5fd83a3.js",
+    "static/js/787.7a774231.chunk.js": "/Task_doday.git/static/js/787.7a774231.chunk.js",
+    "index.html": "/Task_doday.git/index.html",
+    "main.4cefeb0a.css.map": "/Task_doday.git/static/css/main.4cefeb0a.css.map",
+    "main.f5fd83a3.js.map": "/Task_doday.git/static/js/main.f5fd83a3.js.map",
+    "787.7a774231.chunk.js.map": "/Task_doday.git/static/js/787.7a774231.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cefeb0a.css",
+    "static/js/main.f5fd83a3.js"
+  ]
+}
